@@ -21,7 +21,8 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 
 
 # Activities 
-<! --
+
+<!---
 * <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate.
 * <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
 * <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
