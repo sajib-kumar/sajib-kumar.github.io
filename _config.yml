@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tonmoy Hossain"
+title                    : "Sajib Kumar Saha Joy"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
-description              : &description "personal description"
-url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sajib Kumar Saha Joy"
+description              : &description "Ahsanullah University of Science and Technology"
+url                      : https://sajib-kumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
+repository               : "sajib-kumar/sajib-kumar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook: 
   username               :
   app_id                 :
   publisher              :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tonmoy Hossain"
+  name             : "Sajib Kumar Saha Joy"
   avatar           : "final_picture.jpg"
-  bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  location         : "Virginia, United States"
+  bio              : "I am a quick learner, honest individual, and hope to achieve my goals through hard work. I have a thirst for knowledge and like to develop my skills that can take me to a more advanced level."
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JoLJE7AAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=yt2n7sMAAAAJ&hl=en"
   DBLP             : 
-  email            :  pwg7jb@virginia.edu
+  email            :  joy.cse@aust.edu
   researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
   uri              :
   bitbucket        :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tonmoy-hossain"
+  github           : "sajib-kumar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tonmoy-hossain-dihan"
-  orcid            : "https://orcid.org/0000-0002-5808-6391"
+  linkedin         : "https://www.linkedin.com/in/joyjft"
+  orcid            : #"https://orcid.org/0000-0002-5808-6391"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
