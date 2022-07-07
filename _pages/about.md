@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!!!
+Welcome!!!
 
 <div style="text-align: justify"> 
 
-I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virginia. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br /></div>
+I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET). I have completed BSc in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to work as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>, my place of graduation. My primary research interest lies in Natural Language Processing, Computer Vision, Machine Learning and Deep Learning.<br /><br /></div>
  
-<b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*, and *Vision Security*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:pwg7jb@virginia.edu"><i class="fas fa-envelope"></i></a> <br />  
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
@@ -22,6 +21,7 @@ I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virgi
 
 
 # Activities 
+<! --
 * <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate.
 * <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
 * <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
@@ -51,7 +51,7 @@ I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virgi
 * <span style="color:Blue"> [March 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
 * <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
-
+-->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 -----------
