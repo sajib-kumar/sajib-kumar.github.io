@@ -22,7 +22,7 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 
 # Activities 
 
-
+<!---
 * <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate.
 * <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
 * <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
@@ -52,7 +52,7 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 * <span style="color:Blue"> [March 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
 * <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
-
+-->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 -----------
