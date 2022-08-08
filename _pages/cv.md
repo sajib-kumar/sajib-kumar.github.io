@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education 
 -------------
-<b>M.Sc. in Computer Science and Engineering(Ongoing)</b><br />
+<b>M.Sc. in Computer Science and Engineering (Ongoing)</b><br />
 Bangladesh University of Engineering and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**July 2022 - Present**</i>
