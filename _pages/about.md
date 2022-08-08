@@ -27,7 +27,7 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 * <span style="color:Blue"> [September 26, 2021] </span> - Left Job as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
 * <span style="color:Blue"> [August 28, 2021] </span> - One long paper got accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
 * <span style="color:Blue"> [August 1, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [Tensymp 2020](http://tensymp2020.com/).
+* <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [IEEE Region 10 Symposium (TENSYMP 2020)](http://tensymp2020.com/).
 * <span style="color:Blue"> [October 10, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
 * <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://sajib-kumar.github.io/files/B.Sc._Thesis.pdf). 
 
