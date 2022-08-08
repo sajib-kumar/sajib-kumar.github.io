@@ -30,8 +30,11 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 * <span style="color:Blue"> [August 1, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [IEEE Region 10 Symposium (TENSYMP 2020)](http://tensymp2020.com/).
 * <span style="color:Blue"> [October 10, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
+* <span style="color:Blue"> [May 31, 2020]  </span> - Successfully completed "AI for Medicine Specialization" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FHX3EU8HQG2R).
+* <span style="color:Blue"> [May 20, 2020]  </span> - Successfully completed "TensorFlow" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZN95B27PA69F).
 * <span style="color:Blue"> [May 09, 2020]  </span> - Successfully completed "Machine Learning" course from [Coursera](https://www.coursera.org/account/accomplishments/certificate/654LDH72BX42).
 * <span style="color:Blue"> [May 04, 2020]  </span> - Successfully completed "Deep Learning Specialization" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/MZCAWDWGUMMJ).
+* <span style="color:Blue"> [April 19, 2020]  </span> - Successfully completed " Python for Data Science and Machine Learning Bootcamp" course from [Udemy](https://www.udemy.com/certificate/UC-4f563eab-68da-4d95-a72d-06f4357dde21).
 * <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://sajib-kumar.github.io/files/B.Sc._Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
