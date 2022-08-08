@@ -29,7 +29,7 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 * <span style="color:Blue"> [August 1, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [October 10, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
-* <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf). 
+* <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://sajib-kumar.github.io/files/B.Sc._Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
