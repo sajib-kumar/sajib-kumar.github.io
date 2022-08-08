@@ -21,7 +21,6 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 
 
 # Activities 
-<div STYLE="font-size:18.0pt">
 * <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/).
 * <span style="color:Blue"> [July 02, 2022] </span> - Started studing MSc in CSE at Bangladesh University of Engineering and Technology [(BUET)](https://cse.buet.ac.bd/).
 * <span style="color:Blue"> [May 31, 2022] </span> - One paper got accepted at [ISIEA 2022](https://www.isiea.asia/).
@@ -38,6 +37,5 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 * <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://sajib-kumar.github.io/files/B.Sc._Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-</div>
 -----------
 
