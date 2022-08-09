@@ -25,19 +25,19 @@ author_profile: true
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
-* Optimal Location Recommendation for a Food Restaurant using Hybridized K-Means Clustering algorithm.
+* Benchmarking Different Versions of BERT
 * Extraction of text from Images using Optical Character Recognition algorithm.
 * Segmentation of Brain Tumor using Image Processing Techniques.
 * A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
 * Melitus Detector: A dynamic website to detect Diabetes and Medication System.
 * Diabetes Prediction using Data Mining Algorithm (*Jupyter Notebook with excellent GUI*).
 * Implementation of query processing and optimization algorithms in a management software.
-* Line Follower and blockage prevention Robot (*Arduino*).
+* Home Automation System (*Arduino*).
 * A dynamic website using MVC to manage product and stock repository (*MVC Framework, MySQL, Visual Basic*).
 * Case Study: Implementing shortest path and route based protocol on Bus Management System  
 * Super Shop Management System (*PHP, MySQL, Visual Basic*).
 * A Scientific Mathematical Calculator(*Android Studio*).
-* Student Management System (*Language: Java in NeatBeans IDE*).
-* UFO Destruction: Save the City (*Language: C and iGraphics.h*).
+* Graph Simulator (*Language: Java in NeatBeans IDE*).
+* [Paint (*Language: C and iGraphics.h*).] (https://github.com/sajib-kumar/Paint)
 
 __________________________________________________
