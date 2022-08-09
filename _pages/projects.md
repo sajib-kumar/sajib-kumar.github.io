@@ -35,8 +35,8 @@ author_profile: true
 * Home Automation System (*Arduino*).
 * A dynamic website using MVC to manage product and stock repository (*MVC Framework, MySQL, Visual Basic*).
 * Case Study: Implementing shortest path and route based protocol on Bus Management System  
-* Super Shop Management System (*PHP, MySQL, Visual Basic*).
-* A Scientific Mathematical Calculator(*Android Studio*).
+* [Online Examination System(*JSP, Java Database*)](https://github.com/joyjft/Online-Written-Examination-System).
+* [Expenditure Management System(*Android Studio*)](https://github.com/joyjft/DailyCost).
 * [Graph Simulator (*Language: Java in NeatBeans IDE*)](https://github.com/joyjft/Graph-Simulator).
 * [Paint (*Language: C and iGraphics.h*)](https://github.com/sajib-kumar/Paint).
 
