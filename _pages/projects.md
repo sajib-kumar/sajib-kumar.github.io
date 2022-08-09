@@ -25,16 +25,10 @@ author_profile: true
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
-* Benchmarking Different Versions of BERT
-* Extraction of text from Images using Optical Character Recognition algorithm.
-* Segmentation of Brain Tumor using Image Processing Techniques.
-* A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
-* Melitus Detector: A dynamic website to detect Diabetes and Medication System.
-* Diabetes Prediction using Data Mining Algorithm (*Jupyter Notebook with excellent GUI*).
-* Implementation of query processing and optimization algorithms in a management software.
-* Home Automation System (*Arduino*).
-* A dynamic website using MVC to manage product and stock repository (*MVC Framework, MySQL, Visual Basic*).
-* Case Study: Implementing shortest path and route based protocol on Bus Management System  
+* 
+* [Benchmarking Different Versions of BERT(*Python, Tensorflow*)]([https://github.com/joyjft/Online-Written-Examination-System](https://github.com/joyjft/Benchmarking-different-version-of-bert-)).
+* [Loan Pay Back Prediction System](https://github.com/joyjft/Data-Science-Machine-Learning/tree/master/Loan%20Pay%20Back%20Predictor).
+* [Image Caption Generator](https://github.com/joyjft/Image-Caption-Genarator).
 * [Online Examination System(*JSP, Java Database*)](https://github.com/joyjft/Online-Written-Examination-System).
 * [Expenditure Management System(*Android Studio*)](https://github.com/joyjft/DailyCost).
 * [Graph Simulator (*Language: Java in NeatBeans IDE*)](https://github.com/joyjft/Graph-Simulator).
