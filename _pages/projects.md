@@ -10,11 +10,10 @@ author_profile: true
 
 ### [2020 - *Current*]
 -----------
-* Skeleton-based Human Action Recognition.
-* Automated COVID-19 Detection: A HRNet Approach
-* Early Parkinson's Disease Prediction.
-* Automatic Video Captioning System.
-* Cardless transaction system.
+* Image Captioning.
+* Explainable Artificial Intelligence for Text and Image.
+* Paraphrasing of Bangla Text.
+* Topic Modelling.
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
