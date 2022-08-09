@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajib Kumar Saha Joy"
 title_separator          : "-"
 name                     : &name "Sajib Kumar Saha Joy"
-description              : &description "Ahsanullah University of Science and Technology"
+description              : &description "Personal website of Sajib Kumar Saha Joy"
 url                      : https://sajib-kumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajib-kumar/sajib-kumar.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "u8_wFoeq6PlMK9Wzufx5r6IX7kj1q8Y3T3ae0fnO-1U"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
