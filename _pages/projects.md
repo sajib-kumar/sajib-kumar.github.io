@@ -38,6 +38,6 @@ author_profile: true
 * Super Shop Management System (*PHP, MySQL, Visual Basic*).
 * A Scientific Mathematical Calculator(*Android Studio*).
 * Graph Simulator (*Language: Java in NeatBeans IDE*).
-* [Paint (*Language: C and iGraphics.h*).] (https://github.com/sajib-kumar/Paint)
+* [Paint (*Language: C and iGraphics.h*)](https://github.com/sajib-kumar/Paint).
 
 __________________________________________________
