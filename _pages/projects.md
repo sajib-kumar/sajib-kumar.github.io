@@ -37,7 +37,7 @@ author_profile: true
 * Case Study: Implementing shortest path and route based protocol on Bus Management System  
 * Super Shop Management System (*PHP, MySQL, Visual Basic*).
 * A Scientific Mathematical Calculator(*Android Studio*).
-* Graph Simulator (*Language: Java in NeatBeans IDE*).
+* [Graph Simulator (*Language: Java in NeatBeans IDE*)](https://github.com/joyjft/Graph-Simulator).
 * [Paint (*Language: C and iGraphics.h*)](https://github.com/sajib-kumar/Paint).
 
 __________________________________________________
