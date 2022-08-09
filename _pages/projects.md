@@ -25,8 +25,7 @@ author_profile: true
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
-* 
-* [Benchmarking Different Versions of BERT(*Python, Tensorflow*)]([https://github.com/joyjft/Online-Written-Examination-System](https://github.com/joyjft/Benchmarking-different-version-of-bert-)).
+* [Benchmarking Different Versions of BERT(*Python, Tensorflow*)](https://github.com/joyjft/Benchmarking-different-version-of-bert-).
 * [Loan Pay Back Prediction System](https://github.com/joyjft/Data-Science-Machine-Learning/tree/master/Loan%20Pay%20Back%20Predictor).
 * [Image Caption Generator](https://github.com/joyjft/Image-Caption-Genarator).
 * [Online Examination System(*JSP, Java Database*)](https://github.com/joyjft/Online-Written-Examination-System).
