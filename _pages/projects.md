@@ -14,6 +14,7 @@ author_profile: true
 * Explainable Artificial Intelligence for Text and Image.
 * Paraphrasing of Bangla Text.
 * Topic Modelling.
+* COVID-19 Fake News Detection
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
