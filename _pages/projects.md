@@ -26,11 +26,12 @@ author_profile: true
 ## Undergraduate Course Projects [2015-2019]
 ----------------
 * [Benchmarking Different Versions of BERT(*Python, Tensorflow*)](https://github.com/joyjft/Benchmarking-different-version-of-bert-).
-* [Loan Pay Back Prediction System](https://github.com/joyjft/Data-Science-Machine-Learning/tree/master/Loan%20Pay%20Back%20Predictor).
+* [Loan Pay Back Prediction System (*Python, Scikit learn*)](https://github.com/joyjft/Data-Science-Machine-Learning/tree/master/Loan%20Pay%20Back%20Predictor).
 * [Image Caption Generator](https://github.com/joyjft/Image-Caption-Genarator).
 * [Online Examination System(*JSP, Java Database*)](https://github.com/joyjft/Online-Written-Examination-System).
 * [Expenditure Management System(*Android Studio*)](https://github.com/joyjft/DailyCost).
 * [Graph Simulator (*Language: Java in NeatBeans IDE*)](https://github.com/joyjft/Graph-Simulator).
 * [Paint (*Language: C and iGraphics.h*)](https://github.com/sajib-kumar/Paint).
+* Home Automation System (*Arduino*)
 
 __________________________________________________
