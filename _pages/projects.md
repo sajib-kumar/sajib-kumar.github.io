@@ -10,10 +10,10 @@ author_profile: true
 
 ### [2020 - *Current*]
 -----------
-* Image Captioning.
-* Explainable Artificial Intelligence for Text and Image.
-* Paraphrasing of Bangla Text.
-* Topic Modelling.
+* Image Captioning
+* Explainable Artificial Intelligence for Text and Image
+* Paraphrasing of Bangla Text
+* Topic Modelling
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
@@ -24,6 +24,6 @@ author_profile: true
 * [Expenditure Management System(*Android Studio*)](https://github.com/joyjft/DailyCost)
 * [Graph Simulator (*Language: Java in NeatBeans IDE*)](https://github.com/joyjft/Graph-Simulator)
 * [Paint (*Language: C and iGraphics.h*)](https://github.com/sajib-kumar/Paint)
-* Home Automation System (*Arduino*).
+* Home Automation System (*Arduino*)
 
 __________________________________________________
