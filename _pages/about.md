@@ -12,7 +12,7 @@ Welcome!!!
 
 <div style="text-align: justify"> 
 
-I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineering at <a href =https://cse.buet.ac.bd/>Bangladesh University of Engineering and Technology (BUET)</a>. I have completed BSc in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer at the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Natural Language Processing, Computer Vision, Machine Learning and Deep Learning.<br /><br /></div>
+I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineering at <a href ="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>. I have completed BSc in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer at the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Natural Language Processing, Computer Vision, Machine Learning and Deep Learning.<br /><br /></div>
  
 
 **For additional information, please see the [CV](https://sajib-kumar.github.io/cv/) and [publications](https://sajib-kumar.github.io/publications/).**
