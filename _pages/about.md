@@ -23,7 +23,7 @@ I am Sajib Kumar Saha Joy, pursuing MSc degree in Computer Science and Engineeri
 # Activities 
  
 * <span style="color:Blue"> [September 29, 2022] </span> - Reached 50+ citations on my [Google Scholar profile](https://scholar.google.com/citations?user=yt2n7sMAAAAJ&hl=en).
-* <span style="color:Blue"> [September 23, 2022] </span> - Successfully presented my paper at [MIET 2022](https://sajib-kumar.github.io/images/MIET Presentation Certificate.jpg).
+* <span style="color:Blue"> [September 23, 2022] </span> - Successfully presented my paper at [MIET 2022](https://sajib-kumar.github.io/images/MIET Presentation Certificate.jpg/).
 * <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/).
 * <span style="color:Blue"> [July 02, 2022] </span> - Started studing MSc in CSE at Bangladesh University of Engineering and Technology [(BUET)](https://cse.buet.ac.bd/).
 * <span style="color:Blue"> [May 31, 2022] </span> - One paper got accepted at [ISIEA 2022](https://www.isiea.asia/).
