@@ -9,11 +9,11 @@ redirect_from:
 
 
 # Education
-
+<!--
 ### M.Sc. in Computer Science and Engineering (Ongoing)
 
 * Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-
+-->
 ### B.Sc. in Computer Science and Engineering
 
 
@@ -29,8 +29,9 @@ redirect_from:
 # Participation and Awards
 
 * **Dean's List of Honors** (Bachelor of Science)
-* Participated in n IEEE Symposium on Industrial Electronics & Applications (ISIEA 2022), 16-17 July 2022, Malaysia
-* Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
+* Participated in the Conference on Machine Intelligence and Emerging Technologies (MIET 2022), Noakhali Science and Technology University (NSTU), Bangladesh
+* Participated in IEEE Symposium on Industrial Electronics & Applications (ISIEA 2022), 16-17 July 2022, Malaysia
+* Participated in IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 
 
 
