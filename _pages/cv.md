@@ -9,11 +9,12 @@ redirect_from:
 
 ## Education 
 -------------
+<!--- 
 <b>M.Sc. in Computer Science and Engineering (Ongoing)</b><br />
 Bangladesh University of Engineering and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**July 2022 - Present**</i>
-
+--->
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
@@ -31,7 +32,7 @@ Department of Computer Science and Engineering <br/>
 BRAC University<br />
 <i style='color:#000099;'>**October 2020 - September 2021**</i>
 
-[Download Full CV](https://sajib-kumar.github.io/files/SajibKumar_CV.pdf) [ <ins>*Last Updated on August 01, 2022*</ins> ]
+[Download Full CV](https://sajib-kumar.github.io/files/Sajib_Kumar_Saha_Joy__CV_.pdf.pdf) [ <ins>*Last Updated on July 29, 2023*</ins> ]
 
 ## Contact Me
 -------------
