@@ -21,7 +21,7 @@ As an individual, I strive to be a quick learner and maintain honesty and integr
 At present, I am actively engaged in multiple research projects that align with my interests and expertise. Detailed information about the ongoing projects can be found on the <a href="https://sajib-kumar.github.io/projects/">project page</a>.
 
 My long-term goal is to establish myself as a successful researcher in the field of NLP and Computer Vision, pushing the boundaries of what AI can achieve in understanding and processing both language and visual information. I am dedicated to collaborating with fellow researchers and industry experts to drive innovation and create AI systems that are not only advanced and accurate but also ethical and inclusive.  I also aspire to be a mentor and supervisor for students, guiding them in their academic and research pursuits in a supportive and nurturing manner.
-
+<br /><br /></div>
 
 **For additional information, please see the [CV](https://sajib-kumar.github.io/cv/) and [publications](https://sajib-kumar.github.io/publications/).**
 
