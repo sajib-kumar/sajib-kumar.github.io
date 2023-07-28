@@ -5,15 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Ongoing Projects
+## Ongoing Research Projects
 ----------------
-
-### [2020 - *Current*]
------------
+* Visualizing the Effectiveness of Cost Sensitive Neural Network for Imbalanced Dataset Using XAI
+* Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
+* Phylogenetic Tree Construction Using BERT Based Model
 * Image Captioning
-* Explainable Artificial Intelligence for Text and Image
-* Paraphrasing of Bangla Text
-* Topic Modelling
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
