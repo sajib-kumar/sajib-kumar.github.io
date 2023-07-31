@@ -33,7 +33,6 @@ My long-term goal is to establish myself as a successful researcher in the field
 * <span style="color:Blue"> [September 29, 2022] </span> - Reached 50+ citations on my [Google Scholar profile](https://scholar.google.com/citations?user=yt2n7sMAAAAJ&hl=en).
 * <span style="color:Blue"> [September 23, 2022] </span> - Successfully presented my [paper](https://sajib-kumar.github.io/images/MIET_Presentation_Certificate.jpg) at [MIET 2022](https://confmiet.org/).
 * <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/).
-* <span style="color:Blue"> [July 02, 2022] </span> - Started studing MSc in CSE at Bangladesh University of Engineering and Technology [(BUET)](https://cse.buet.ac.bd/).
 * <span style="color:Blue"> [May 31, 2022] </span> - One paper got accepted at [ISIEA 2022](https://www.isiea.asia/).
 * <span style="color:Blue"> [September 26, 2021] </span> - Left Job as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
 * <span style="color:Blue"> [August 28, 2021] </span> - One long paper got accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
