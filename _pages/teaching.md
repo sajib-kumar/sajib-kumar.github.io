@@ -11,12 +11,12 @@ author_profile: true
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
 Lecturer<br />
 Department of Computer Science and Engineering<br />
-<i style='color:#000099;'>June 2021 - Present</i> <br />
+<i style='color:#000099;'>August 2021 - Present</i> <br />
 
-* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.<br />
-Part-Time Faculty<br />
+* BRAC University, Dhaka, Bangladesh.<br />
+Contractual Lecturer<br />
 Department of Computer Science and Engineering<br />
-<i style='color:#000099;'>February 2021 - June 2021</i> <br />
+<i style='color:#000099;'>October 2020 - September 2021</i> <br />
 
 <b>Experience</b>
 * Directorate of Secondary and Higher Education, Bangladesh.<br />
