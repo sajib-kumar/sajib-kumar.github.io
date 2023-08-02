@@ -104,7 +104,7 @@ Procedures; Interfacing using Assembly language.
 <span style="color:green"><font size="3"><ins>Conducted in Spring 2020</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
-<strong>Syllabus</strong>: to be filled
+<strong>Syllabus</strong>: Basics of Procedural and Declarative Knowledgebase, Informed Search, Evolutionary Algorithms, Best First Search and its variants, Machine Learning Techniques. 
 </font>
 </span><br>
 </details>
