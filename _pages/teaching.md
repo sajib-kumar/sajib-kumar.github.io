@@ -47,7 +47,7 @@ same language must be used for the laboratory).
 </details>
 
 <details>
-<summary>CSE 2100: Software Development-II</summary>
+<summary>CSE 2100: Software Development-II Lab</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2020</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
@@ -57,7 +57,7 @@ same language must be used for the laboratory).
 </details>
 
 <details>
-<summary>CSE 2200: Software Development-III</summary>
+<summary>CSE 2200: Software Development-III Lab</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2020</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
@@ -67,7 +67,7 @@ same language must be used for the laboratory).
 </details>
 
 <details>
-<summary>CSE 2214: Assembly Language Programming</summary>
+<summary>CSE 2214: Assembly Language Programming Lab</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Spring 2020</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
@@ -119,7 +119,7 @@ data; Types of object classification and machine learning. Object recognition an
 learning methods: Regression analysis; Bayesian classifiers and probabilistic
 decision models; Neural networks and deep learning algorithms; Decision trees
 and random forests; Support vector machines; Sequential pattern recognition; 
-Reinforcement learning; Cluster analysis. Applications of pattern recognition and
+Cluster analysis. Applications of pattern recognition and
 machine learning methods.
 </font>
 </span><br>
