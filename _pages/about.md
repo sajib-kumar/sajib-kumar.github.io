@@ -17,7 +17,7 @@ I am Sajib Kumar Saha Joy, a Lecturer in the Department of Computer Science and 
 As an individual, I strive to be a quick learner and maintain honesty and integrity in all my endeavors. I believe in the power of hard work and continuous improvement to achieve my goals. My thirst for knowledge fuels my desire to develop advanced skills in my field. Ultimately, I aspire to be a successful research scientist in the domain of computer science and contribute to the betterment of society and the world through my work. My guiding philosophy centers around making a positive impact on society and the world. I am dedicated to using my skills and knowledge for the greater good, and I value integrity, empathy, and ethical conduct in everything I do. 
 <br /><br />
 At present, I am actively engaged in multiple research projects that align with my interests and expertise. Detailed information about my ongoing research works can be found on the <a href="https://sajib-kumar.github.io/projects/">project page</a>. Besides, I am encouraging students, guiding them in their academic and research pursuits in a supportive and nurturing manner, and working together on some exciting research projects.
-<br /><br/>
+<br /><br/></div>
 
 
 **For additional information, please see the [CV](https://sajib-kumar.github.io/cv/) and [Publications](https://sajib-kumar.github.io/publications/).**
