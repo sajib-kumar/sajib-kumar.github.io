@@ -81,7 +81,7 @@ Procedures; Interfacing using Assembly language.
 
 <details>
 <summary>CSE 4101: Computer Networks</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 |Fall 2022</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 | Fall 2022</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Introduction to computer networks, LAN, MAN and WAN; OSI reference model; TCP/IP Reference Model; Data Link Layer: Sliding window protocol, HDLC, SLIP, PPP, ALOHA, CSMA/CD, GSM, CDMA, IEEE standards for LANs, MANs and Wireless Networks, Bridges; Network Layer: Routing algorithms, Internetworking, IP Protocol, Transport Layer: Transport services, TCP and UDP, ATM Adaptation layer; Application Layer: Network Security, SNMP, DNS, Electronic mail, WWW.
@@ -91,7 +91,7 @@ Procedures; Interfacing using Assembly language.
 
 <details>
 <summary>CSE 4102: Computer Networks Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 |Fall 2022</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 | Fall 2022</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Laboratory works based on CSE 4101.
@@ -111,7 +111,7 @@ Procedures; Interfacing using Assembly language.
 
 <details>
 <summary>CSE 4214: Pattern Recognition Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 |Fall 2022</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 | Fall 2022</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Introduction: Object similarity measures, feature selection and pattern discovery in
