@@ -28,6 +28,7 @@ At present, I am actively engaged in multiple research projects that align with 
 # Activities 
 * <span style="color:Blue"> [July 09, 2023] </span> - One journal paper submitted at [Multimedia Tools and Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yt2n7sMAAAAJ&citation_for_view=yt2n7sMAAAAJ:W7OEmFMy1HYC).
 * <span style="color:Blue"> [June 06, 2023] </span> - One journal paper submitted at [SN Computer Science](https://www.researchsquare.com/article/rs-3047442/v1).
+* <span style="color:Blue"> [April 01, 2023]  </span> - Successfully completed "Natural Language Processing" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KCGEZKB3RV6P).
 * <span style="color:Blue"> [December 09, 2022] </span> - One paper got accepted at [ICCIT 2022](https://iccit.org.bd/2022/).
 * <span style="color:Blue"> [September 29, 2022] </span> - Reached 50+ citations on my [Google Scholar profile](https://scholar.google.com/citations?user=yt2n7sMAAAAJ&hl=en).
 * <span style="color:Blue"> [September 23, 2022] </span> - Successfully presented my [paper](https://sajib-kumar.github.io/images/MIET_Presentation_Certificate.jpg) at [MIET 2022](https://confmiet.org/).
