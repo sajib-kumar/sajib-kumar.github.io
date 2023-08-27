@@ -46,9 +46,9 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 **Address:**
 <address>
-Department of Computer Science <br /> 
-Ahsanullah University of Science and Technology <br /> 
-141 & 142, Love Road, Tejgaon Industrial Area, <br />
+Department of Computer Science and Engineerin<br /> 
+Ahsanullah University of Science and Technology<br /> 
+141 & 142, Love Road, Tejgaon Industrial Area,<br />
 Dhaka, Bangladesh. <br /> 
 </address> 
 <br /> 
