@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sajib Kumar Saha Joy"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
