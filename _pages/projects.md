@@ -10,7 +10,7 @@ author_profile: true
 * Visualizing the Effectiveness of Cost Sensitive Neural Network for Imbalanced Dataset Using XAI
 * Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
 * Phylogenetic Tree Construction Using BERT Based Model
-* Image Captioning
+* Bengali Image Captioning
 * Emotion detection from live Bengali-speech
 
 ## Undergraduate Course Projects [2015-2020]
