@@ -11,6 +11,7 @@ author_profile: true
 * Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
 * Phylogenetic Tree Construction Using BERT Based Model
 * Image Captioning
+* Emotion detection from live bangla-speech
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
