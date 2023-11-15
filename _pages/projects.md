@@ -10,7 +10,7 @@ author_profile: true
 * Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
 * Explainable Multimodal Sentiment Analysis on Bengali Memes
 * Bengali Image Captioning
-* Emotion detection from live Bengali-speech
+* Emotion Detection from Live Bengali-Speech
 * Phylogenetic Tree Construction Using BERT Based Model
 
 
