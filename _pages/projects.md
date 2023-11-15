@@ -7,11 +7,12 @@ author_profile: true
 
 ## Ongoing Research Projects
 ----------------
-* Visualizing the Effectiveness of Cost Sensitive Neural Network for Imbalanced Dataset Using XAI
 * Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
-* Phylogenetic Tree Construction Using BERT Based Model
+* Explainable Multimodal Sentiment Analysis on Bengali Memes
 * Bengali Image Captioning
 * Emotion detection from live Bengali-speech
+* Phylogenetic Tree Construction Using BERT Based Model
+
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
