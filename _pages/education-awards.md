@@ -25,6 +25,15 @@ redirect_from:
 
 <br /> 
 
+# Additional Certification
+* ["Natural Language Processing" - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KCGEZKB3RV6P).
+* ["AI for Medicine Specialization" - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FHX3EU8HQG2R).
+* ["TensorFlow" - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZN95B27PA69F).
+* ["Machine Learning"- Coursera](https://www.coursera.org/account/accomplishments/certificate/654LDH72BX42).
+* ["Deep Learning Specialization" - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/MZCAWDWGUMMJ).
+* ["Python for Data Science and Machine Learning Bootcamp" - Udemy](https://www.udemy.com/certificate/UC-4f563eab-68da-4d95-a72d-06f4357dde21).
+
+<br /> 
 
 # Participation and Awards
 
