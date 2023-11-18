@@ -26,6 +26,8 @@ At present, I am actively engaged in multiple research projects that align with 
 
 
 # Activities 
+* <span style="color:Blue"> [November 14, 2023] </span> - Three paper got accepted at [ICCIT 2023](https://iccit.org.bd/2023/).
+* <span style="color:Blue"> [October 16, 2023] </span> - One paper got accepted at [STI 2023](https://sti.green.edu.bd/).
 * <span style="color:Blue"> [July 09, 2023] </span> - One journal paper submitted at [Multimedia Tools and Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yt2n7sMAAAAJ&citation_for_view=yt2n7sMAAAAJ:W7OEmFMy1HYC).
 * <span style="color:Blue"> [June 06, 2023] </span> - One journal paper submitted at [SN Computer Science](https://www.researchsquare.com/article/rs-3047442/v1).
 * <span style="color:Blue"> [April 01, 2023]  </span> - Successfully completed "Natural Language Processing" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KCGEZKB3RV6P).
