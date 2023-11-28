@@ -28,6 +28,7 @@ At present, I am actively engaged in multiple research projects that align with 
 # Activities 
 * <span style="color:Blue"> [November 14, 2023] </span> - Three paper got accepted at [ICCIT 2023](https://iccit.org.bd/2023/).
 * <span style="color:Blue"> [October 16, 2023] </span> - One paper got accepted at [STI 2023](https://sti.green.edu.bd/).
+* <span style="color:Blue"> [October 11, 2023] </span> - Promoted to Senior Lecturer at the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/cse).
 * <span style="color:Blue"> [July 09, 2023] </span> - One journal paper submitted at [Multimedia Tools and Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yt2n7sMAAAAJ&citation_for_view=yt2n7sMAAAAJ:W7OEmFMy1HYC).
 * <span style="color:Blue"> [June 06, 2023] </span> - One journal paper submitted at [SN Computer Science](https://www.researchsquare.com/article/rs-3047442/v1).
 * <span style="color:Blue"> [April 01, 2023]  </span> - Successfully completed "Natural Language Processing" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KCGEZKB3RV6P).
@@ -38,7 +39,7 @@ At present, I am actively engaged in multiple research projects that align with 
 * <span style="color:Blue"> [May 31, 2022] </span> - One paper got accepted at [ISIEA 2022](https://www.isiea.asia/).
 * <span style="color:Blue"> [September 26, 2021] </span> - Left Job as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
 * <span style="color:Blue"> [August 28, 2021] </span> - One long paper got accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
-* <span style="color:Blue"> [August 01, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
+* <span style="color:Blue"> [August 01, 2021] </span> - Joined as a Lecturer at the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [IEEE Region 10 Symposium (TENSYMP 2020)](http://tensymp2020.com/).
 * <span style="color:Blue"> [October 10, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
 * <span style="color:Blue"> [May 31, 2020]  </span> - Successfully completed "AI for Medicine Specialization" course from [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FHX3EU8HQG2R).
