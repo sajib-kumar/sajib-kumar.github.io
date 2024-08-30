@@ -7,8 +7,7 @@ author_profile: true
 
 ## Ongoing Research Projects
 ----------------
-* Investigating the Effectiveness of XAI Generated Salient Features for Text Classification
-* Explainable Multimodal Sentiment Analysis on Bengali Memes
+* Gender Bias Mitigation for Bangla Classification Tasks
 * Bengali Image Captioning
 * Emotion Detection from Live Bengali-Speech
 * Phylogenetic Tree Construction Using BERT Based Model
