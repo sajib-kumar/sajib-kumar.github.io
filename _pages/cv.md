@@ -32,7 +32,7 @@ Department of Computer Science and Engineering <br/>
 BRAC University<br />
 <i style='color:#000099;'>**October 2020 - September 2021**</i>
 
-[Download Full CV](https://sajib-kumar.github.io/files/Sajib_Kumar_Saha_Joy__CV_.pdf) [ <ins>*Last Updated on August 31, 2024*</ins> ]
+[Download Full CV](https://sajib-kumar.github.io/files/Sajib_Kumar_Saha_Joy__CV_.pdf) [ <ins>*Last Updated on October 17, 2024*</ins> ]
 
 ## Contact Me
 -------------
