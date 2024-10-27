@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ongoing Research Projects
 ----------------
-* Gender Bias Mitigation for Bangla Classification Tasks
+* Adversarial Attack on Bangla Classification Tasks
 * Bengali Image Captioning
 * Emotion Detection from Live Bengali-Speech
 * Phylogenetic Tree Construction Using BERT Based Model
