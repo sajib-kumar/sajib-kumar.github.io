@@ -111,7 +111,7 @@ Procedures; Interfacing using Assembly language.
 
 <details>
 <summary>CSE 4214: Pattern Recognition Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 | Fall 2022</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Introduction: Object similarity measures, feature selection and pattern discovery in
@@ -121,6 +121,26 @@ decision models; Neural networks and deep learning algorithms; Decision trees
 and random forests; Support vector machines; Sequential pattern recognition; 
 Cluster analysis. Applications of pattern recognition and
 machine learning methods.
+</font>
+</span><br>
+</details>
+
+<details>
+<summary>CSE 4129: Formal Languages and Compilers</summary>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023</ins></font></span><br>
+<span style="text-align:justify; color:black; display:block;">
+<font size="3">
+<strong>Syllabus</strong>: Formal Languages: Basic elements of formal languages; Finite Automata; Context-free grammars; Push down automata; Turing machines; Hierarchy of formal languages and grammars. Compilers: Compiler structure and phases; Lexical analysis; Top-down and bottom-up parsing; Symbol table; Syntax-directed translation; Type checking; Run time environment; Intermediate code generation; Code optimization.
+</font>
+</span><br>
+</details>
+
+<details>
+<summary>CSE 4130: Formal Languages and Compilers Lab</summary>
+<span style="color:green"><font size="3"><ins>Conducted in Spring 2023 | Fall 2023</ins></font></span><br>
+<span style="text-align:justify; color:black; display:block;">
+<font size="3">
+<strong>Syllabus</strong>: Laboratory works based on CSE 4129 that includes: Formal Languages: Basic elements of formal languages; Finite Automata; Context-free grammars; Push down automata; Turing machines; Hierarchy of formal languages and grammars. Compilers: Compiler structure and phases; Lexical analysis; Top-down and bottom-up parsing; Symbol table; Syntax-directed translation; Type checking; Run time environment; Intermediate code generation; Code optimization.
 </font>
 </span><br>
 </details>
