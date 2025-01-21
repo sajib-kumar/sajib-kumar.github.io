@@ -28,7 +28,7 @@ At present, I am actively engaged in multiple research projects that align with 
 # Activities 
 * <span style="color:Blue"> [December 12, 2024] </span> - Two papers ([1. An Empirical Study on Utilizing Large Language Models for Bengali Image Caption Generation](https://www.researchgate.net/profile/Muhammad-Azmain-Mahtab/publication/387295591_An_Empirical_Study_on_Utilizing_Large_Language_Models_for_Bengali_Image_Caption_Generation/links/6766916f894c552085225b8f/An-Empirical-Study-on-Utilizing-Large-Language-Models-for-Bengali-Image-Caption-Generation.pdf) [2. Real-Time Tea Leaf Disease Detection Using Deep
 Learning-Based Models
-](https://www.researchgate.net/profile/Ashiqul-Islam-6/publication/387501552_Real-Time_Tea_Leaf_Disease_Detection_Using_Deep_Learning-Based_Models/links/6770f54e894c55208531749f/Real-Time-Tea-Leaf-Disease-Detection-Using-Deep-Learning-Based-Models.pdf)) got accepted at [ICCIT 2023](https://iccit.org.bd/2023/). 
+](https://www.researchgate.net/profile/Ashiqul-Islam-6/publication/387501552_Real-Time_Tea_Leaf_Disease_Detection_Using_Deep_Learning-Based_Models/links/6770f54e894c55208531749f/Real-Time-Tea-Leaf-Disease-Detection-Using-Deep-Learning-Based-Models.pdf)) got accepted at [ICCIT 2024](https://iccit.org.bd/2024/). 
 * <span style="color:Blue"> [November 14, 2023] </span> - Three papers got accepted at [ICCIT 2023](https://iccit.org.bd/2023/).
 * <span style="color:Blue"> [October 16, 2023] </span> - One paper got accepted at [STI 2023](https://sti.green.edu.bd/).
 * <span style="color:Blue"> [October 11, 2023] </span> - Promoted to Senior Lecturer at the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/cse).
