@@ -26,6 +26,7 @@ At present, I am actively engaged in multiple research projects that align with 
 
 
 # Activities 
+* <span style="color:Blue"> [April 30, 2025] </span> - Our paper titled "Explainable cost-sensitive deep neural networks for brain tumor detection from brain MRI images considering data imbalance" got accepted at [Multimedia Tools and Applications (Q1 Journal - Impact Factor 5.19)](https://link.springer.com/journal/11042).
 * <span style="color:Blue"> [December 12, 2024] </span> - Two papers ([1. An Empirical Study on Utilizing Large Language Models for Bengali Image Caption Generation](https://www.researchgate.net/profile/Muhammad-Azmain-Mahtab/publication/387295591_An_Empirical_Study_on_Utilizing_Large_Language_Models_for_Bengali_Image_Caption_Generation/links/6766916f894c552085225b8f/An-Empirical-Study-on-Utilizing-Large-Language-Models-for-Bengali-Image-Caption-Generation.pdf) [2. Real-Time Tea Leaf Disease Detection Using Deep
 Learning-Based Models
 ](https://www.researchgate.net/profile/Ashiqul-Islam-6/publication/387501552_Real-Time_Tea_Leaf_Disease_Detection_Using_Deep_Learning-Based_Models/links/6770f54e894c55208531749f/Real-Time-Tea-Leaf-Disease-Detection-Using-Deep-Learning-Based-Models.pdf)) got accepted at [ICCIT 2024](https://iccit.org.bd/2024/). 
